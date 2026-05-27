@@ -1,2 +1,2 @@
 # maisonnoir
-A minimal luxury advertising website project.
+A minimal luxury apparel website project.
